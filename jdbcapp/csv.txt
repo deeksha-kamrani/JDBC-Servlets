@@ -1,0 +1,4 @@
+14,Preeti,100000,F
+18,Manish,10000,M
+19,Sardar,200000,M
+20,Kavitha,600000,F
